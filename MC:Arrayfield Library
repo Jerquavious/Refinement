@@ -10,10 +10,10 @@ Arrays  | Designing + Programming + New Features
 
 ]]
 
-local Release = "Release 2A"
+local Release = "Release 1A"
 local NotificationDuration = 6.5
-local ArrayFieldFolder = "ArrayField"
-local ConfigurationFolder = ArrayFieldFolder.."/Configurations"
+local ArrayFieldFolder = "LuminousBeam"
+local ConfigurationFolder = LuminousBeamFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
 local ArrayFieldQuality = {}
 
